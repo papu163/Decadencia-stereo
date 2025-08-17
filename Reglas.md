@@ -29,4 +29,4 @@ Estas son las reglas globales del servidor de Discord "꧁⋆Decadencia𓆱Stere
    el bot "Wick" estara manejando esto.
 
   ## 4.-No se permite la evasion de castigos
-  Cualquier intento de evadir un castigo sera 
+  Cualquier intento de evadir un castigo sera sancionado y podra aumentar el castigo, por ejemplo, si tu tenias un aislamiento y lo evades ahora duraria mas tu aislamiento o directamente te ponemos en cuarentena
