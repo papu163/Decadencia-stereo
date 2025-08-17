@@ -12,9 +12,13 @@ Estas son las reglas globales del servidor de Discord "꧁⋆Decadencia𓆱Stere
   [1.-Seguir en todo momento los ToS de Discord.](#1-seguir-en-todo-momento-los-tos-de-discord)
 
   [2.-No se permite el contenido inapropiado](#2-no-se-permite-el-contenido-inapropiado)
+  
   [3.-No se permite el spam, walltext, enlaces maliciosos, etc.](#3.-No-se-permite-el-spam,-walltext,-enlaces-maliciosos,-etc.)
+  
   [4.-No se permite la evasion de castigos](4.-No-se-permite-la-evasion-de-castigos)
+  
   [5.-No se permite la publicidad no autorizada](5.-No-se-permite-la-publicidad-no-autorizada)
+  
   [6.-Conducta en el chat](6.-Conducta-en-el-chat)
 
   ## 1.-Seguir en todo momento los ToS de Discord.
