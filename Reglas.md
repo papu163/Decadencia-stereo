@@ -9,7 +9,8 @@ Estas son las reglas globales del servidor de Discord "꧁⋆Decadencia𓆱Stere
 
   ## Indice
 
-  placeholder
+  [1.-Seguir en todo momento los ToS de Discord.](https://github.com/papu163/Decadencia-stereo/edit/main/Reglas.md#1-seguir-en-todo-momento-los-tos-de-discord)
+  [2.-No se permite el contenido inapropiado](https://github.com/papu163/Decadencia-stereo/edit/main/Reglas.md#2-no-se-permite-el-contenido-inapropiado)
 
   ## 1.-Seguir en todo momento los ToS de Discord.
   Se solicita a los miembros que respeten los ToS de Discord para un ambiente sano pero, se permite el uso de modificaciones como Vencord o BetterDiscord siempre y cuando no afecten de manera directa a
