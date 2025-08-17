@@ -13,7 +13,7 @@ Estas son las reglas globales del servidor de Discord "꧁⋆Decadencia𓆱Stere
 
   [2.-No se permite el contenido inapropiado](#2-no-se-permite-el-contenido-inapropiado)
   
-  [3.-No se permite el spam, walltext, enlaces maliciosos, etc.](#3-no-se-permite-el-spam,-walltext,-enlaces-maliciosos,-etc)
+  [3.-No se permite el spam, walltext, enlaces maliciosos, etc.](#3-no-se-permite-el-spam-walltext-enlaces-maliciosos-etc)
   
   [4.-No se permite la evasion de castigos](#4.-no-se-permite-la-evasion-de-castigos)
   
