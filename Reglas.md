@@ -39,15 +39,15 @@ Estas son las reglas globales del servidor de Discord "꧁⋆Decadencia𓆱Stere
 
   ## 6.-Conducta en el chat
   Esta regla sera dividida en subreglas para abarcar toda posible conducta en el chat y como debe ser
-  ## 6.1.-Insultos y lenguaje grosero
+  ### 6.1.-Insultos y lenguaje grosero
   El uso de insultos y lenguaje grosero está permitido, siempre que no se use para atacar o intimidar directamente a otros. Los insultos deben estar dentro de un contexto general o sarcastico y no usarse para provocar o atacar personalmente a otros usuarios.
-  ## 6.2.-Burlas y sarcasmo
+  ### 6.2.-Burlas y sarcasmo
   Las burlas sarcásticas y comentarios humorísticos están permitidos, siempre que no tengan la intención de ofender o descalificar a otros usuarios. Se espera que los usuarios sepan distinguir entre humor y ataque personal.
-  ## 6.3.-Evita el lenguaje provocativo en temas delicados
+  ### 6.3.-Evita el lenguaje provocativo en temas delicados
   Temas como política, religión o cuestiones sociales pueden generar conflicto. Si decides hablar de estos temas, hazlo con respeto y sin imposición de opiniones.
-  ## 6.4.-Resolución de conflictos en privado
+  ### 6.4.-Resolución de conflictos en privado
   Si tienes un problema o discusión personal con otro miembro, intenta resolverlo mediante mensajes privados y evita involucrar al resto del servidor. El staff del servidor tomara accion si no pasa esto o escala a algo mas grande
-  ## 6.5.-Evita menciones innecesarias o abusivas
+  ### 6.5.-Evita menciones innecesarias o abusivas
   No uses menciones (@usuario o @everyone) sin una razón clara y justificada, y no abuses de estas para llamar la atención constantemente.
   
   
